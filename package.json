@@ -1,0 +1,42 @@
+{
+  "name": "Login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ad-bs-converter": "^0.5.0",
+    "base64-img": "^1.0.4",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "bower": "^1.8.8",
+    "child-process": "^1.0.2",
+    "cookie-parse": "^0.4.0",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "csv-writer": "^1.4.0",
+    "deferred": "^0.7.10",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-csv": "^0.6.0",
+    "express-mysql-session": "^2.1.0",
+    "express-session": "^1.17.0",
+    "fs": "0.0.1-security",
+    "get-nepali-number": "^0.1.0",
+    "gulp-nodemon": "^2.4.2",
+    "jquery": "^3.3.1",
+    "knex": "^0.20.4",
+    "mysql": "^2.16.0",
+    "mysql-events": "0.0.11",
+    "nepali-date-picker": "^2.0.1",
+    "open": "0.0.5",
+    "path": "^0.12.7",
+    "pdfkit": "^0.10.0",
+    "pdfmake": "^0.1.57"
+  }
+}
